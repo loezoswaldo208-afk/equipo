@@ -1,0 +1,16 @@
+PROYECTO FRONTEND - ACT9
+
+ARCHIVOS
+- index.html: estructura HTML semántica de la página.
+- css/estilos.css: estilos, colores, distribución y adaptación a móvil.
+- js/app.js: funciones para agregar, buscar, editar y eliminar registros.
+
+CÓMO ABRIRLO
+1. Descomprime el archivo ZIP.
+2. Abre la carpeta frontend_act9 en Visual Studio Code.
+3. Abre index.html en el navegador. También puedes usar la extensión Live Server.
+
+IMPORTANTE
+El enlace de Figma no se pudo visualizar desde aquí, así que esta es una base funcional hecha a partir de las instrucciones visibles en la captura. Cambia el nombre del proyecto, los campos y los colores para que coincidan exactamente con tu diseño. Bootstrap y Google Fonts requieren conexión a internet.
+
+La información de ejemplo se guarda temporalmente en memoria; al recargar la página, los cambios se reinician. Para guardar datos permanentemente se necesita conectar una base de datos o usar almacenamiento local.
